@@ -10,7 +10,7 @@
 uv run ./gradio_vto_demo.py
 ```
 
-应用将在 `http://localhost:8003/nova_canvas_vto` 启动。
+应用将在 `http://localhost:8003` 启动。
 
 ## ✨ 主要功能
 
