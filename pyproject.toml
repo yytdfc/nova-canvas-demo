@@ -1,0 +1,10 @@
+[project]
+name = "250704-canvas-vto"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "boto3>=1.39.4",
+    "gradio==5.27.1",
+]
